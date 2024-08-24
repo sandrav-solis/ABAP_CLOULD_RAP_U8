@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZSVSS_MESS_CLASS</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Message class</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSVSS_MESS_CLASS</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Numero de vuelo &amp;1 &amp;2 ya existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSVSS_MESS_CLASS</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>La aerolinea &amp;1 no existe</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSVSS_MESS_CLASS</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Origen y destino deben ser diferentes</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZSVSS_MESS_CLASS</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Moneda &amp;1 no existe</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
